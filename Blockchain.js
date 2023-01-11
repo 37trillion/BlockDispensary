@@ -1,22 +1,23 @@
 <html>
     <header>
-        <h1 style = align-center> Block Dispensary Sell Page </h1>
+    <div button click >
+        <h1 style = "align-center; text-size=100px"> Block Dispensary Sell Page </h1>
         <p>Block Dispensary Sell page providing a social profile to sell physical/digital assets </p>
-        <h1 href="listitem.js">LIST ITEM </h1>
-        <h1 href="approval.js">Get Approval for Human verification Hash</h1>
-        <h1 href="Browse.js">Browse Items for sale</h1>
-        <h1 href="Blockchain.js">Go to Blockchain Dispensary</h1>
-        <h1 href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</h1>
-        <h1 href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</h1>
-        <h1 href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</h1>
-        <h1 href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</h1>
-        <h1 href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</h1>
-        <h1 href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</h1>
-        <h1 style "align-text=center; text-size=100px">GET APPROVED</h1>
-        <h1>Do not have an account Profile?<h1>
-        <h1 href="SignUp.js">Sign up for account Now</h1>
+        <a href="listitem.js"> LIST ITEM </a>
+        <a href="approval.js">Get Approval for Human verification Hash</a>
+        <a href="Browse.js">Browse Items for sale</a>
+        <a href="Blockchain.js">Go to Blockchain Dispensary</a>
+        <a href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</a>
+        <a href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</a>
+        <a href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</a>
+        <a href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</a>
+        <a href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</a>
+        <a href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</a>
+        <a style "align-text=center; text-size=100px">GET APPROVED</div></a>
+        <h1 style = "align-text=center; text-size=100px">Dont have an account Profile?<h1>
+        <a href="SignUp.js> Sign up for account Now </a>
         <div1>
-        <h1 "style = align-center" BLOCKCHAIN FOR BLOCK DISPENSARY </h1>
+        <h1 style = "align-center"> BLOCKCHAIN FOR BLOCK DISPENSARY </h1>
         <h1> Blockchain for Block Dispensary Public Chain Data </h1>
         //data displayed being able to click from page 1 to current block on block dispensary block data explorer or link to another java file or website
         <p> Block Dispensary supplies a public chain of data keeping personal identity personal details anonymous, opt in to have buyer and seller identities listed as user profile name or opt in to be placed in block as unknown. since block genesis all public data is stored with Block number, Timestamp, Item description, Value of total transaction including price of item, shipping fees, and transaction fees. The Block Dispensary Blocks will also include Time item was sent and time item was delivered under confirmation providing value information data on the items that are sold what time they are sold at what time they are delivered and what time the final block sector of a four sector block function is completed </p>

@@ -1,34 +1,30 @@
 <html>
     <header>
-        <h1 style = align-center> Block Dispensary Sell Page </h1>
+        <div button click >
+        <h1 "style = align-center; text-size=100px> Block Dispensary Sell Page </h1>
         <p>Block Dispensary Sell page providing a social profile to sell physical/digital assets </p>
-        <h1 href="listitem.js">LIST ITEM </h1>
-        <h1 href="approval.js">Get Approval for Human verification Hash</h1>
-        <h1 href="Browse.js">Browse Items for sale</h1>
-        <h1 href="Blockchain.js">Go to Blockchain Dispensary</h1>
-        <h1 href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</h1>
-        <h1 href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</h1>
-        <h1 href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</h1>
-        <h1 href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</h1>
-        <h1 href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</h1>
-        <h1 href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</h1>
-        <h1 style "align-text=center; text-size=100px">GET APPROVED</h1>
-        <h1>Dont have an account Profile?<h1>
-        <h1 href="SignUp.js>Sign up for account Now</h1>
-        <div1>
-        <h1>Start a Human Hash verification application</h1>
+        <a href="listitem.js"> LIST ITEM </a>
+        <a href="approval.js">Get Approval for Human verification Hash</a>
+        <a href="Browse.js">Browse Items for sale</a>
+        <a href="Blockchain.js">Go to Blockchain Dispensary</a>
+        <a href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</a>
+        <a href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</a>
+        <a href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</a>
+        <a href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</a>
+        <a href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</a>
+        <a href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</a>
+        <a style "align-text=center; text-size=100px">GET APPROVED</a>
+        <h1 style = "align-text=center; text-size=100px">Dont have an account Profile?<h1>
+        <a href="SignUp.js> Sign up for account Now </a>
+        </div>
+        <div1 button-click text-style=itallic data-submit=true>
+
+        <h1 style= "text-size=100px; align-text=center;" >Start a Human Hash verification application</h1>
         <P>When signing up for human hash verification follow the steps to proceed to becoming a professional human hash for reward from Block Dispensary Blockchain Transactions Get paid in BTC or opt in to auto exchange to a different Crypto currency of your choice</P>
-        <h1>Registration Portfolio</h1>
-        <h>Enter your details {
-            NAME:_____________,
-            COUNTRY:_____________,
-            Date Of Birth:_______________
-            Current Job:________________
-            Reason for Applying:_________________
-            Education:_______________
-            Hobbies & Intrests:________________
-            Other Details_______________',
-            <h1 button type="submit">SUBMIT</button>
+        <h1 style = "text-size=100px; align-text=center;">Registration Portfolio</h1>
+        <h1<form action="/signup" method="get" id="signup" action="/Name" method="get" id="Name" action="/Country" method="get" id="country" 
+        action="/DOB" methond="get" id="DOB" action="/CurrentJob" method="get" id="CurrentJob" action="/ReasonForApplying" method="get" id="reasonforapplying
+        action="/education" method="get" id="Education" action="Hobbies" method="get" id="Hobbies" action="/Other" method="get" id="Other"></h1></form>
             </div1>
             <div2>
             <p>when finished submitting information please read guidelines and policies of Block Dispensary Human Hash Verification Conditions</p>

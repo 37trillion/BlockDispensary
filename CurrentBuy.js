@@ -1,19 +1,22 @@
 <html>
     <header>
-        <h1 style = align-center> Block Dispensary Sell Page </h1>
+    <div button click >
+        <h1 "style = align-center; text-size=100px> Block Dispensary Sell Page </h1>
         <p>Block Dispensary Sell page providing a social profile to sell physical/digital assets </p>
-        <h1 href="listitem.js">LIST ITEM </h1>
-        <h1 href="approval.js">Get Approval for Human verification Hash</h1>
-        <h1 href="Browse.js">Browse Items for sale</h1>
-        <h1 href="Blockchain.js">Go to Blockchain Dispensary</h1>
-        <h1 href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</h1>
-        <h1 href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</h1>
-        <h1 href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</h1>
-        <h1 href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</h1>
-        <h1 href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</h1>
-        <h1 href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</h1>
-        <h1 style "align-text=center; text-size=100px">GET APPROVED</h1>
-        <h1 href="SignUp.js">Sign up for account Now</h1>
+        <a href="listitem.js"> LIST ITEM </a>
+        <a href="approval.js">Get Approval for Human verification Hash</a>
+        <a href="Browse.js">Browse Items for sale</a>
+        <a href="Blockchain.js">Go to Blockchain Dispensary</a>
+        <a href="CurrentSell.js">Check out the current Blockchain Dispensary Sell Page</a>
+        <a href="CurrentBuy.js">Locate Buy Blockchain Dispensary Current transactions</a>
+        <a href="DeliveryPublic.js">See current Blockchain Dispensary Public Delivery Blockchain</a>
+        <a href="BrowseBlockchain.js">Browse all four block sectors on the public Blockchain Dispensary Public Blockchain</a>
+        <a href="JoinCpu.js">Join the Miner Block Reward CPU Blockchain Dispensary</a>
+        <a href="SignUp.js">Sign Up for Block Dispensary Buy & Sell Profile start Selling/Buying/Hashing</a>
+        <a style "align-text=center; text-size=100px">GET APPROVED</a>
+        <h1 style = "align-text=center; text-size=100px">Dont have an account Profile?<h1>
+        <a href="SignUp.js> Sign up for account Now </a>
+        </div>
         **//
             DIV 1 displays simple data
         **//
